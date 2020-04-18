@@ -98,8 +98,8 @@ body a:hover
 .header-logo img
 {
     transition: opacity 0.3s linear;
-    width: 10%;
-    height: 10%;
+    width: 50%;
+    height: 50%;
 }
 
 .header-logo img:hover
@@ -205,8 +205,8 @@ body a:hover
 .menu-logo img
 {
     transition: opacity 0.3s linear;
-    width: 10%;
-    height: 10%;
+    width: 50%;
+    height: 50%;
 }
 
 .menu-logo img:hover
