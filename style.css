@@ -101,6 +101,8 @@ body a:hover
 .header-logo img:hover
 {
     opacity: 0.2;
+    width: 10%;
+    height: auto;
 }
 
 .toggle-holder
@@ -209,6 +211,8 @@ body a:hover
 #header-main-menu
 {    
     max-width: 350px;
+    width: 10%;
+    height: auto;
     margin: 0 auto;
 }
 
