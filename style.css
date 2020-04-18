@@ -91,6 +91,8 @@ body a:hover
 .header-logo
 {
     padding: 80px 0;
+    width: 10%;
+    height: auto;
 }
 
 .header-logo img
@@ -101,8 +103,6 @@ body a:hover
 .header-logo img:hover
 {
     opacity: 0.2;
-    width: 10%;
-    height: auto;
 }
 
 .toggle-holder
@@ -196,6 +196,8 @@ body a:hover
     margin-top: 80px;
     display: inline-block;
     margin-bottom: 50px;    
+    width: 10%;
+    height: auto;
 }
 
 .menu-logo img
