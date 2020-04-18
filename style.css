@@ -92,12 +92,14 @@ body a:hover
 {
     padding: 80px 0;
     width: 10%;
-    height: auto;
+    height: 10%;
 }
 
 .header-logo img
 {
     transition: opacity 0.3s linear;
+    width: 10%;
+    height: 10%;
 }
 
 .header-logo img:hover
@@ -197,12 +199,14 @@ body a:hover
     display: inline-block;
     margin-bottom: 50px;    
     width: 10%;
-    height: auto;
+    height: 10%;
 }
 
 .menu-logo img
 {
     transition: opacity 0.3s linear;
+    width: 10%;
+    height: 10%;
 }
 
 .menu-logo img:hover
