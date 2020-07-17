@@ -6,15 +6,6 @@
 	<true/>
 	<key>destination</key>
 	<string>export</string>
-	<key>manifest</key>
-	<dict>
-		<key>appURL</key>
-		<string>https://joedub.co.uk/wiw/oauth.ipa</string>
-		<key>displayImageURL</key>
-		<string>https://joedub.co.uk/images/logo.png</string>
-		<key>fullSizeImageURL</key>
-		<string>https://joedub.co.uk/images/logo.png</string>
-	</dict>
 	<key>method</key>
 	<string>development</string>
 	<key>signingStyle</key>

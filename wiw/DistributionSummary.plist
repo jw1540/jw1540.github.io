@@ -12,9 +12,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>880F4D9A2C943A7BAB8F346D2EDEFBF2B8CF4741</string>
+				<string>92E43CE32C05CB2CDD3B85C07B59E2BDA77FCE89</string>
 				<key>dateExpires</key>
-				<string>23/10/2020</string>
+				<string>10/06/2021</string>
 				<key>type</key>
 				<string>Apple Development</string>
 			</dict>
@@ -28,57 +28,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>880F4D9A2C943A7BAB8F346D2EDEFBF2B8CF4741</string>
+						<string>92E43CE32C05CB2CDD3B85C07B59E2BDA77FCE89</string>
 						<key>dateExpires</key>
-						<string>23/10/2020</string>
-						<key>type</key>
-						<string>Apple Development</string>
-					</dict>
-					<key>name</key>
-					<string>DiffableDataSources.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>HWKSN9MB55</string>
-						<key>name</key>
-						<string>Joe Williams</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>880F4D9A2C943A7BAB8F346D2EDEFBF2B8CF4741</string>
-						<key>dateExpires</key>
-						<string>23/10/2020</string>
-						<key>type</key>
-						<string>Apple Development</string>
-					</dict>
-					<key>name</key>
-					<string>DifferenceKit.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>HWKSN9MB55</string>
-						<key>name</key>
-						<string>Joe Williams</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>880F4D9A2C943A7BAB8F346D2EDEFBF2B8CF4741</string>
-						<key>dateExpires</key>
-						<string>23/10/2020</string>
+						<string>10/06/2021</string>
 						<key>type</key>
 						<string>Apple Development</string>
 					</dict>
@@ -100,33 +52,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>880F4D9A2C943A7BAB8F346D2EDEFBF2B8CF4741</string>
+						<string>92E43CE32C05CB2CDD3B85C07B59E2BDA77FCE89</string>
 						<key>dateExpires</key>
-						<string>23/10/2020</string>
-						<key>type</key>
-						<string>Apple Development</string>
-					</dict>
-					<key>name</key>
-					<string>IBPCollectionViewCompositionalLayout.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>HWKSN9MB55</string>
-						<key>name</key>
-						<string>Joe Williams</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>880F4D9A2C943A7BAB8F346D2EDEFBF2B8CF4741</string>
-						<key>dateExpires</key>
-						<string>23/10/2020</string>
+						<string>10/06/2021</string>
 						<key>type</key>
 						<string>Apple Development</string>
 					</dict>
@@ -148,9 +76,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>880F4D9A2C943A7BAB8F346D2EDEFBF2B8CF4741</string>
+						<string>92E43CE32C05CB2CDD3B85C07B59E2BDA77FCE89</string>
 						<key>dateExpires</key>
-						<string>23/10/2020</string>
+						<string>10/06/2021</string>
 						<key>type</key>
 						<string>Apple Development</string>
 					</dict>
